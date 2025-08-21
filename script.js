@@ -36,9 +36,9 @@ const perguntas = [
     },
     {
         enunciado:"Em 2049, a sociedade...",
-            "A conversa se desenvolveu em torno da temática do uso de Inteligência Artificial (IA) na psicologia, explorando as opiniões e percepções do público.
-Inicialmente, foram criados cinco tópicos com duas alternativas de resposta cada, abordando as vantagens, preocupações e críticas sobre a IA na saúde mental.
-O conteúdo foi então aprimorado e expandido em etapas, tornando as perguntas mais detalhadas e informativas. A primeira pergunta, em seguida, foi convertida em uma introdução narrativa, que apresentava os dois principais argumentos sobre os benefícios da IA: acessibilidade e capacidade de análise de dados."
+            "A conversa se desenvolveu em torno da temática do uso de Inteligência Artificial (IA) na psicologia, explorando as opiniões e percepções do público.",
+"Inicialmente, foram criados cinco tópicos com duas alternativas de resposta cada, abordando as vantagens, preocupações e críticas sobre a IA na saúde mental.",
+"O conteúdo foi então aprimorado e expandido em etapas, tornando as perguntas mais detalhadas e informativas. A primeira pergunta, em seguida, foi convertida em uma introdução narrativa, que apresentava os dois principais argumentos sobre os benefícios da IA: acessibilidade e capacidade de análise de dados.",
         alternativas: [
             "Alternativa 1",
             "Alternativa 2"
