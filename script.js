@@ -28,10 +28,11 @@ const perguntas = [
         ]
     },
     {
-        enunciado:No futuro, você acredita que mesmo com todas as divergências da sociedade sobre as tecnologias aplicadas em tratamentos de saúde, as pessoas ainda poderão ter a liberdade de escolha sobre um tratamento tradicional?
+        enunciado:
+        "No futuro, você acredita que mesmo com todas as divergências da sociedade sobre as tecnologias aplicadas em tratamentos de saúde, as pessoas ainda poderão ter a liberdade de escolha sobre um tratamento tradicional?",
         alternativas: [
-           Acredito que sim!
-           Acredito que não!
+           "Acredito que sim!",
+           "Acredito que não!"
         ]
     },
     {
