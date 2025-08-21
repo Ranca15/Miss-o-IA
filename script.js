@@ -28,24 +28,19 @@ const perguntas = [
         ]
     },
     {
- HEAD
-        enunciado:"No futuro, você acredita que mesmo com todas as divergências da sociedade sobre as tecnologias aplicadas em tratamentos de saúde, as pessoas ainda poderão ter a liberdade de escolha sobre um tratamento tradicional?"
-
-        enunciado:
-        "No futuro, você acredita que mesmo com todas as divergências da sociedade sobre as tecnologias aplicadas em tratamentos de saúde, as pessoas ainda poderão ter a liberdade de escolha sobre um tratamento tradicional?",
- 1645de5a7195f948fa74fe5087c2b2cf60d2b8f5
+        enunciado:"No futuro, você acredita que mesmo com todas as divergências da sociedade sobre as tecnologias aplicadas em tratamentos de saúde, as pessoas ainda poderão ter a liberdade de escolha sobre um tratamento tradicional?",
         alternativas: [
            "Acredito que sim!",
            "Acredito que não!"
         ]
     },
     {
-        enunciado:"Em 2049, a sociedade..."
+        enunciado:"Em 2049, a sociedade...",
             "A conversa se desenvolveu em torno da temática do uso de Inteligência Artificial (IA) na psicologia, explorando as opiniões e percepções do público.
 Inicialmente, foram criados cinco tópicos com duas alternativas de resposta cada, abordando as vantagens, preocupações e críticas sobre a IA na saúde mental.
 O conteúdo foi então aprimorado e expandido em etapas, tornando as perguntas mais detalhadas e informativas. A primeira pergunta, em seguida, foi convertida em uma introdução narrativa, que apresentava os dois principais argumentos sobre os benefícios da IA: acessibilidade e capacidade de análise de dados."
         alternativas: [
-            "Alternativa 1"
+            "Alternativa 1",
             "Alternativa 2"
         ]
     }
