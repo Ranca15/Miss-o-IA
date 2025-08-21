@@ -10,24 +10,24 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso me assusta!",
-                afirmacao: "No inicio eu fico com medo "
+                afirmacao: "No inicio eu fico com medo."
             },
             {
                 texto: "Isso é perfeito!",
-                afirmacao: "Facilita minha vida"
+                afirmacao: "Facilita minha vida."
             }
         ]
     },
     {
-        enunciado: "Com a descoberta desta tecnologia, chamada Inteligência Artificial, uma professora de tecnologia da escola decidiu fazer uma sequência de aulas sobre esta tecnologia. No fim de uma aula ela pede que você escreva um trabalho sobre o uso de IA em sala de aula. Qual atitude você toma?",
+        enunciado: "É importante ter consciencia  de que as IAs não possuem termos éticos, o que pode ocasionar em infomações falhas ou até mesmo superfulas, podendo levar as pessoas que consomem esses  conteúdos a tomarem decisões precipitadas  e tendenciosas.",
         alternativas: [
             {
-                texto: "Utiliza uma ferramenta de busca na internet que utiliza IA para que ela ajude a encontrar informações relevantes para o trabalho e explique numa linguagem que facilite o entendimento.",
-                afirmacao: "Conseguiu utilizar a IA para buscar informações úteis."
+                texto: "Tenho consciencia das informações que recebo e as uso com sabedoria!",
+                afirmacao: "Consigo utilizar a IA para buscar informações úteis."
             },
             {
-                texto: "Escreve o trabalho com base nas conversas que teve com colegas, algumas pesquisas na internet e conhecimentos próprios sobre o tema.",
-                afirmacao: "Sentiu mais facilidade em utilizar seus próprios recursos para escrever seu trabalho."
+                texto: "Não procuro saber as procedências das informações recebidas, mas as ultilizo mesmo assim!",
+                afirmacao: "Tenho preguiça de pesquisar."
             }
         ]
     },
