@@ -7,7 +7,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 const perguntas = [
     {
         enunciado:
-        "A psicquIA, é uma junção de tecnologia e psicologia, nos ultimos dias, muito se fala em desabafar de uma forma “inovadora” para muitos isso parece legal, mas afinal, será que isso é realmente seguro?"
+        "A psicquIA, é uma junção de tecnologia e psicologia, nos ultimos dias, muito se fala em desabafar de uma forma “inovadora” para muitos isso parece legal, mas afinal, será que isso é realmente seguro?",
         alternativas: [
          "Isso me assusta!" ,
         "Isso é perfeito!"
