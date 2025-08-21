@@ -14,16 +14,16 @@ const perguntas = [
         ]
     },
     {
-        enunciado:"É importante ter consciencia  de que as IAs não possuem termos éticos, o que pode ocasionar em infomações falhas ou até mesmo superfulas, podendo levar as pessoas que consomem esses  conteúdos a tomarem decisões precipitadas  e tendenciosas."
+        enunciado:"É importante ter consciencia  de que as IAs não possuem termos éticos, o que pode ocasionar em infomações falhas ou até mesmo superfulas, podendo levar as pessoas que consomem esses  conteúdos a tomarem decisões precipitadas  e tendenciosas.",
         alternativas: [
-         "Tenho consciencia das informações que recebo e as uso com sabedoria!"
+         "Tenho consciencia das informações que recebo e as uso com sabedoria!",
          "Não procuro saber as procedências das informações recebidas, mas as ultilizo mesmo assim!"
         ]
     },
     {
-        enunciado:"Você acredita que a tecnologia pode realmente ser implantada nos tratamentos de saúde, se for usada de forma correta, por um profissional da área de saúde e tecnologia para auxiliar os pacientes? "
+        enunciado:"Você acredita que a tecnologia pode realmente ser implantada nos tratamentos de saúde, se for usada de forma correta, por um profissional da área de saúde e tecnologia para auxiliar os pacientes? ",
         alternativas: [
-            "Acredito que a IA posssa sim auxiliar o profissional de saúde, nos tratamentos!"
+            "Acredito que a IA posssa sim auxiliar o profissional de saúde, nos tratamentos!",
            "Acredito que a IA não deve ser incerida como uma forma de tratamento, prefiro somente o auxilio de um profissional de saúde!"
         ]
     },
