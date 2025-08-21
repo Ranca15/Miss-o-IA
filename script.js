@@ -28,20 +28,15 @@ const perguntas = [
         ]
     },
     {
-<<<<<<< HEAD
+ HEAD
         enunciado:"No futuro, você acredita que mesmo com todas as divergências da sociedade sobre as tecnologias aplicadas em tratamentos de saúde, as pessoas ainda poderão ter a liberdade de escolha sobre um tratamento tradicional?"
-=======
+
         enunciado:
         "No futuro, você acredita que mesmo com todas as divergências da sociedade sobre as tecnologias aplicadas em tratamentos de saúde, as pessoas ainda poderão ter a liberdade de escolha sobre um tratamento tradicional?",
->>>>>>> 1645de5a7195f948fa74fe5087c2b2cf60d2b8f5
+ 1645de5a7195f948fa74fe5087c2b2cf60d2b8f5
         alternativas: [
-<<<<<<< HEAD
-           "Acredito que sim!"
-           "Acredito que não!"
-=======
            "Acredito que sim!",
            "Acredito que não!"
->>>>>>> 1645de5a7195f948fa74fe5087c2b2cf60d2b8f5
         ]
     },
     {
