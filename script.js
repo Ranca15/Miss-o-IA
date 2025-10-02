@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Tenho consciencia das informações que recebo e as uso com sabedoria!",
-                afirmacao: "Consigo utilizar a IA para buscar informações úteis."
+                afirmacao: "Consigo utilizar a IA para buscar informações úteis, sei como as utilizar de forma segura e coerente."
             },
             {
                 texto: "Não procuro saber as procedências das informações recebidas, mas as ultilizo mesmo assim!",
