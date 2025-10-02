@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Isso me assusta!",
-                afirmacao: "Eu fico com medo, já que acretito em informações devem serem passadas no estilo tradicional."
+                afirmacao: "Eu fico com medo, já que acretito em informações devem serem passadas no estilo tradicional, com pessoas fisicas."
             },
             {
                 texto: "Isso é perfeito!",
