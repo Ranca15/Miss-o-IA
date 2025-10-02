@@ -36,11 +36,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Acredito que a IA posssa sim auxiliar o profissional de saúde, nos tratamentos!",
-                afirmacao: "É uma inovação no auxilio ao profissional."
+                afirmacao: "Isso é uma inovação no auxilio ao profissional, quando usada de forma correta."
             },
             {
                 texto: "Acredito que a IA não deve ser incerida como uma forma de tratamento, prefiro somente o auxilio de um profissional de saúde!",
-                afirmacao: "Tenho preocupação com as minhas informações pessoais."
+                afirmacao: "Tenho preocupação com as minhas informações pessoais, já que a Ia não me passa segurança."
             }
         ]
     },
