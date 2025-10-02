@@ -49,7 +49,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Acredito que sim!",
-                afirmacao: "Nós podemos ultilizar as ferramentas digitais."
+                afirmacao: "No futuro acredito que as pessoas ainda terão a possibilidade de escolha entre o tratamento tradicional e tecnologico"
             },
             {
                 texto: "Acredito que não!",
