@@ -14,7 +14,7 @@ const perguntas = [
             },
             {
                 texto: "Isso é perfeito!",
-                afirmacao: "Facilita minha vida."
+                afirmacao: "Facilita minha vida, acho as informações rapidamente."
             }
         ]
     },
