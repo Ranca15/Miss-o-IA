@@ -40,7 +40,7 @@ const perguntas = [
             },
             {
                 texto: "Acredito que a IA não deve ser incerida como uma forma de tratamento, prefiro somente o auxilio de um profissional de saúde!",
-                afirmacao: "Tenho preocupação com as minhas informações pessoais, já que a Ia não me passa segurança."
+                afirmacao: "Tenho preocupação com as minhas informações pessoais, já que a Ia não possui POLITICA DE PRIVACIDADE."
             }
         ]
     },
