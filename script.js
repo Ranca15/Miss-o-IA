@@ -27,7 +27,7 @@ const perguntas = [
             },
             {
                 texto: "Não procuro saber as procedências das informações recebidas, mas as ultilizo mesmo assim!",
-                afirmacao: "Tenho preguiça de pesquisar, assim acretido no que aparece primeiro, sem ter o trabalho de ficar verificando as informações3."
+                afirmacao: "Tenho preguiça de pesquisar, assim acretido no que aparece primeiro, sem ter o trabalho de ficar verificando as informações."
             }
         ]
     },
