@@ -53,7 +53,7 @@ const perguntas = [
             },
             {
                 texto: "Acredito que não!",
-                afirmacao: "Não poís, com o avanço da tecnologia tealvez nem tanhamos mais profissionais na área, já que acredito que a Ia vai dominar o mundo."
+                afirmacao: "No futuro acredito que não teremos a possibilidade de escolha, poís, com o avanço da tecnologia talvez nem tanhamos mais profissionais na área, já que acredito que a Ia vai dominar o mundo."
             }
         ]
     },
