@@ -31,6 +31,7 @@ const perguntas = [
             }
         ]
     },
+    
     {
         enunciado: "Você acredita que a tecnologia pode realmente ser implantada nos tratamentos de saúde, se for usada de forma correta, por um profissional da área de saúde e tecnologia para auxiliar os pacientes?",
         alternativas: [
